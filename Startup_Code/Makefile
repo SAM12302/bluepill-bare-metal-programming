@@ -1,3 +1,7 @@
+//Access the project that I have been following and learning from
+//All credits to Sergey Lyubka
+//https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file
+
 CFLAGS  ?=  -W -Wall -Wextra -Werror -Wundef -Wshadow -Wdouble-promotion \
             -Wformat-truncation -fno-common -Wconversion \
             -g3 -Os -ffunction-sections -fdata-sections -I. \
