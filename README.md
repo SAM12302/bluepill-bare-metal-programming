@@ -1,2 +1,2 @@
 # bluepill-bare-metal-programming
-My attempt at bare metal programming on Bluepill
+My first attempt at bare metal programming on Bluepill-STM32F103C8T6.
