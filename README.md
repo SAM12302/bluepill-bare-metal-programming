@@ -1,5 +1,7 @@
 # bluepill-bare-metal-programming
+<br>
 Author - Muhammad Sameer Bin Younas
+<br>
 My first attempt at bare metal programming on Bluepill-STM32F103C8T6.
 <br>
 Worth Sharing: I have been learning from the tutorial laid out by Sergey Lyubka
