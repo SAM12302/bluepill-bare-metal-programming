@@ -1,5 +1,6 @@
-// Copyright (c) 2022 Cesanta Software Limited
-// All rights reserved
+//Access the project that I have been following and learning from
+//All credits to Sergey Lyubka
+//https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file
 
 int main(void) {
   return 0;
